@@ -1,0 +1,23 @@
+table
+{color:green;}
+
+[href="#ooo"]
+  {color: orange;}
+
+ [colspan="2"]
+ {color:red;}
+
+ [class="aa1"]
+ {color:purple;}
+
+#ooo {
+  font-weight: bold;
+}
+
+html tr {
+  color:yellow;
+}
+
+.jas >li {
+color:red;
+}
